@@ -1,0 +1,6 @@
+{
+	"appId": "com.classwork",
+	"appName": "classwork",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
